@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Pani Puri",
+      "description": "A popular street snack in India.",
+      "price": 20,
+      "image": "https://example.com/pani-puri.jpg"
+    },
+    {
+      "name": "Masala Dosa",
+      "description": "A savory crepe filled with spiced potatoes.",
+      "price": 40,
+      "image": "https://example.com/masala-dosa.jpg"
+    }
+  ]
+  
